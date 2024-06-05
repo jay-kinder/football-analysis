@@ -2,11 +2,7 @@
 
 Started working with some Football data.
 
-To obtain all visualisations, run:
-
-```bash
-mkdir data && mkdir static
-```
+To obtain all visualisations:
 
 Put all your data into the `data` directory, and run:
 
